@@ -1,0 +1,14 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.primary{
+    width:100%;
+    padding:20px;
+}
+.primary h3{
+    padding:20px;
+    background-color: rgba(0, 255, 34, 0.685);
+    color:red;
+}

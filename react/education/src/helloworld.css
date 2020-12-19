@@ -1,0 +1,12 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+.header1 .h1{
+     background-color: brown;
+     text-align: center;
+     padding:20px;
+     text-decoration: underline;
+}
+
